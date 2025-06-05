@@ -1,11 +1,8 @@
-node_modules/
-
 # Playwright
 /test-results/
 /playwright-report/
-/blob-report/
-/playwright/.cache/
 .DS_Store
 
 # WordPress
 debug.log
+node_modules/.vite/results.json
